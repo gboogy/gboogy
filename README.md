@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey, I'm Gilbert 👋🏾
+
+Some call me Randall others call me Gil.
+
+I'm a husband and father of one residing in Houston, TX. By day, I work as Business Intelligence Engineer. In my spare time, I like to learn and add new skills to my toolbox. Welcome!
+
+📫 How to reach me: gilbert.r.hopkins@gmail.com
 
 <!--
 **gboogy/gboogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
