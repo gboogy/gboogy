@@ -1,6 +1,6 @@
 # Hey, I'm Gilbert 👋🏾
 
-Some call me Randall others call me Gil.
+Some call me Randall (middle name) others call me Gil.
 
 I'm a husband and father of one residing in Houston, TX. By day, I work as Business Intelligence Engineer. In my spare time, I like to learn and add new skills to my toolbox. Welcome!
 
