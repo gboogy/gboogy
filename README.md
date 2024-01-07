@@ -2,7 +2,7 @@
 
 Some call me Randall (middle name) others call me Gil.
 
-I'm a husband and father of one residing in Houston, TX. By day, I work as Business Intelligence Engineer. In my spare time, I like to learn and add new skills to my toolbox. Welcome!
+I'm a husband and father of two residing in Houston, TX. By day, I work as a Data Engineer. In my spare time, I like to learn and add new skills to my toolbox. Welcome!
 
 📫 How to reach me: gilbert.r.hopkins@gmail.com
 
